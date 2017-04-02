@@ -1,0 +1,15 @@
+h4 {
+	color: rgb(2, 117, 216);
+}
+body {
+	background-color: rgba(128, 128, 128, 0.15);
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+}
+.description {
+	background-image: url("../img/pattern.jpg"); 
+	background-position: center;
+}
+.card {
+	background-color: white;
+}
