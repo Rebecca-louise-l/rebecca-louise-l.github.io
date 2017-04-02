@@ -4,9 +4,10 @@
 	background-position: left top;
 	background-size: cover;
 }
-h3, h4 {
+h1, p {
 	font-family: arial;
 	text-align: center;
+	color: white;
 }
 body {
 	background-color: rgba(91, 192, 222, 0.11);
